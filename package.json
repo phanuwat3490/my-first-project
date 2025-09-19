@@ -1,0 +1,20 @@
+{
+  "name": "mockup-project",
+  "version": "1.0.0",
+  "description": "A mockup project to demonstrate TypeScript functionality.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mockup-project.git"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
